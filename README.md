@@ -6,4 +6,5 @@ NFT Studio Instagram:
 Reddit:- 
 https://www.reddit.com/user/TheNFTStudioNet
 Facebook:-
-https:
+Medium
+
