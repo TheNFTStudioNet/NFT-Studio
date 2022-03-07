@@ -7,5 +7,5 @@ Reddit:-
 https://www.reddit.com/user/TheNFTStudioNet
 Facebook:-
 Medium
-https
+https://medium.com/@thenftstudionet
 
