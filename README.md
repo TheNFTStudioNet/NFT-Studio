@@ -1,10 +1,10 @@
 # NFT-Studio
-Website:-https://thenftstudio.net/
+Website:-
 https://thenftstudio.net/
 https://twitter.com/TheNFTStudioNet
 https://www.youtube.com/channel/UCbpX8vKjxWNJKgg23IeWcVQ
 https://github.com/TheNFTStudioNet
-NFT Studio Instagram:
+NFT Studio Instagram:https://www.instagram.com/nftstudionet/
 Reddit:- 
 https://www.reddit.com/user/TheNFTStudioNet
 Facebook:-
