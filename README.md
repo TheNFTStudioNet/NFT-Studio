@@ -13,5 +13,5 @@ Medium:-
 https://medium.com/@thenftstudionet
 Bsc:-
 https://bscscan.com/address/0x47391871d06e96218de5431d9ca43456da8112c8#code
-Pinterest
+Pinterest:-
 https://www.pinterest.com/thenftstudionet
