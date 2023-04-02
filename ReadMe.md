@@ -1,8 +1,8 @@
 # The NFT Studio #
 $ Artist Token $
-Website:-
+Website:
 https://thenftstudio.net/
-Twitter
+Twitter:
 https://twitter.com/TheNFTStudioNet
 Youtube
 https://www.youtube.com/channel/UCbpX8vKjxWNJKgg23IeWcVQ
