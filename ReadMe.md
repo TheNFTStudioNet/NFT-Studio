@@ -4,7 +4,7 @@ Website:
 https://thenftstudio.net/
 Twitter:
 https://twitter.com/TheNFTStudioNet
-Youtube
+Youtube:
 https://www.youtube.com/channel/UCbpX8vKjxWNJKgg23IeWcVQ
 Github
 https://github.com/TheNFTStudioNet
