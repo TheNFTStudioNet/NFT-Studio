@@ -1,5 +1,5 @@
 # The NFT Studio #
->$ Artist Token $<
+:>$ Artist Token $<:
 Website:-
 https://thenftstudio.net/
 Twitter:-
