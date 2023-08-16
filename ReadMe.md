@@ -9,7 +9,7 @@ https://www.youtube.com/channel/UCbpX8vKjxWNJKgg23IeWcVQ
 Github:-
 https://github.com/TheNFTStudioNet
 Instagram:-
-https://www.instagram.com/nftstudionet/
+https://www.instagram.com/nftstudionet
 Reddit:- 
 https://www.reddit.com/user/TheNFTStudioNet
 Facebook:-
